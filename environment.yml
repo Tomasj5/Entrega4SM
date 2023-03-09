@@ -1,0 +1,5 @@
+name: entonrno_conda
+channels:
+  - conda-forge
+  - defaults
+prefix: /home/alumno/git/Entrega4SM/Entrega4SM/entonrno_conda
